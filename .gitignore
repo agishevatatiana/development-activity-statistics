@@ -1,0 +1,8 @@
+.env
+.venv/
+report.xlsx
+report1.numbers
+__pycache__/
+build/
+dev-activity-pyinstaller.spec
+.DS_Store
