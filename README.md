@@ -10,5 +10,9 @@ run file dist/dev-activity-pyinstaller or dist/exe.macosx-12.0-x86_64-3.12/gui o
 
 RESULT EXAMPLE:
 
+<img width="761" alt="result-example" src="https://github.com/user-attachments/assets/6b29327b-0d2a-4168-8216-68c75b992ff0">
 
+CODING VIDEOS:
+
+https://www.youtube.com/playlist?list=PLHzf2Qnul2N8pXESgzjwFZ2or8fVk292A
 
